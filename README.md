@@ -17,8 +17,8 @@ You need Linux, Node 22+, git and Claude Code.
 1. Install the plugin, in Claude Code:
 
    ```
-   /plugin marketplace add mairp/claude-plugins
-   /plugin install specstride@mairp
+   /plugin marketplace add mairp/specstride-plugin
+   /plugin install specstride@specstride-marketplace
    ```
 
 2. Clone this repository and open Claude Code in it:
